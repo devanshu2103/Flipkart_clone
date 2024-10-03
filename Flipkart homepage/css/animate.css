@@ -1,0 +1,78 @@
+@keyframes slide1{
+    0%
+    {
+      transform: translate(-200vw);
+    }
+    100%
+    {
+      transform: translate(100vw);
+    }  
+  } 
+    @keyframes slide2{
+    0%
+    {
+      transform: translate(-160vw);
+    }
+    100%
+    {
+      transform: translate(100vw)
+    }   
+  }
+  @keyframes slide3{
+    0%
+    {
+      transform: translate(-200vw);
+    }
+    100%
+    {
+      transform: translate(100vw);
+    }  
+  }
+    @keyframes slide4{
+    0%
+    {
+      transform: translate(0vw);
+    }
+    100%
+    {
+      transform: translate(100vw);
+    }   
+  }
+  @keyframes slide5{
+    0%
+    {
+      transform: translate(40vw);
+    }
+    100%
+    {
+      transform: translate(100vw);
+    }   
+  }
+ 
+  .i1
+  {
+      transform: translate(-200vw);
+      animation: slide1 10s forwards infinite;
+  }
+  .i2
+  {
+      transform: translate(-160vw);
+      animation: slide2 10s  forwards infinite;
+  }
+   .i3
+  {
+      transform: translate(0vw);
+      animation: slide3 10s  forwards infinite;
+      
+
+  } 
+    .i4
+  {
+      transform: translate(0vw);
+      animation: slide4 10s  forwards infinite;
+  }
+  .i5
+  {
+      transform: translate(0vw);
+      animation: slide5 10s  forwards infinite;
+  }

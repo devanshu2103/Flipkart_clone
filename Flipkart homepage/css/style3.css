@@ -1,0 +1,185 @@
+.bigblock4 {
+    width: 1536px;
+    height: 620px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.block4a {
+    width: 500px;
+    height: 600px;
+    background-color: #fff;
+    margin: 20px 7px 0 10px;
+}
+
+.items4a1 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.items4a2 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.block4b {
+    width: 500px;
+    height: 600px;
+    background-color: #fff;
+    margin: 20px 7px 0 7px;
+}
+
+.items4b1 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.items4b2 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.block4c {
+    width: 500px;
+    height: 600px;
+    background-color: #fff;
+    margin: 20px 10px 0 7px;
+}
+
+.items4c1 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.items4c2 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.heading4 {
+    height: 50px;
+    width: 500px;
+    font-size: x-large;
+    font-family: 'Bacasime Antique', serif;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.c1 {
+    font-family: 'Bacasime Antique', serif;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lora', serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.c2 {
+    font-family: 'Bacasime Antique', serif;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lora', serif;
+    font-size: medium;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+}
+
+.solarlightcell {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.umbrella {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.casualshoes {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.Sandles {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.slippers {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.smartwatch {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.oil {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+
+}
+
+.skincare {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.cycle {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.hairemoval {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.curtain {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.showpie {
+    width: 190px;
+    height: 240px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
